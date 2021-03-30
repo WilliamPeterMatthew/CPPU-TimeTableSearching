@@ -21,4 +21,27 @@ clone本项目到本地并打开目录
  ││├XXXXXX_教室课表.xls
  ││├...
  ││└XXXXXX_教室课表.xls
- 
+ |├教学班（*可选）
+ ||
+ ||
+ |└学生
+ | ├1班
+ | |├xxXXx队1班（XX）_xxxxxxxxxx_X..X_学员课表.xls
+ | |├...
+ | |└xxXXx队1班（XX）_xxxxxxxxxx_X..X_学员课表.xls
+ | ├2班
+ | |├xxXXx队2班（XX）_xxxxxxxxxx_X..X_学员课表.xls
+ | |├...
+ | |└xxXXx队2班（XX）_xxxxxxxxxx_X..X_学员课表.xls
+ | ├...
+ | └x班
+ |  ├xxXXx队x班（XX）_xxxxxxxxxx_X..X_学员课表.xls
+ |  ├...
+ |  └xxXXx队x班（XX）_xxxxxxxxxx_X..X_学员课表.xls
+ └统计用
+  ├2020-2021学年 第二学期
+  ├txt
+  ├班.py
+  ├
+  ├
+  └
