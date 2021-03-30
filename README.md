@@ -37,10 +37,10 @@ clone本项目到本地并打开目录
  |||├...
  |||└糅合_xxXXx队x班（XX）,xxXXx队x班（XX）_X...X(X...X)_班级课表.xls
  ||└综合（需要自己制作如下内容）
- |||├综合_xxXXx队1班（XX）_X...X(X...X)_班级课表.xls
- |||├综合_xxXXx队2班（XX）_X...X(X...X)_班级课表.xls
- |||├...
- |||└综合_xxXXx队x班（XX）_X...X(X...X)_班级课表.xls
+ || ├综合_xxXXx队1班（XX）_X...X(X...X)_班级课表.xls
+ || ├综合_xxXXx队2班（XX）_X...X(X...X)_班级课表.xls
+ || ├...
+ || └综合_xxXXx队x班（XX）_X...X(X...X)_班级课表.xls
  |└学生
  | ├1班
  | |├xxXXx队1班（XX）_xxxxxxxxxx_X..X_学员课表.xls
@@ -121,10 +121,10 @@ xx,xxx xxXXx队x班（XX）_xxxxxxxxxx_X..X_学员课表.xls
  |||├...
  |||└糅合_xxXXx队x班（XX）,xxXXx队x班（XX）_X...X(X...X)_班级课表.xls
  ||└综合（需要自己制作如下内容）
- |||├综合_xxXXx队1班（XX）_X...X(X...X)_班级课表.xls
- |||├综合_xxXXx队2班（XX）_X...X(X...X)_班级课表.xls
- |||├...
- |||└综合_xxXXx队x班（XX）_X...X(X...X)_班级课表.xls
+ || ├综合_xxXXx队1班（XX）_X...X(X...X)_班级课表.xls
+ || ├综合_xxXXx队2班（XX）_X...X(X...X)_班级课表.xls
+ || ├...
+ || └综合_xxXXx队x班（XX）_X...X(X...X)_班级课表.xls
  |└学生
  | ├1班
  | |├xxXXx队1班（XX）_xxxxxxxxxx_X..X_学员课表.xls
